@@ -1,0 +1,3 @@
+- Videogames :sparkles:
+- Movies :camera:
+- Comics :smile:
