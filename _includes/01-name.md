@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Brian Richichi's Page
+## Future Content to Follow
+###### Notes and rules
